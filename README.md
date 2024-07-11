@@ -3,7 +3,7 @@
 
 ## About Me :
 
-- 🏢 I am a **Mobile Software Developer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 I am a **Mobile Software Developer** 
 - 🎓 Studies for Computer Programming at [https://www.mu.edu.tr/tr]
 - 🏡'Lives in **Aydın Turkey**
 - ⚡ **Fun Facts** : 🏃 ⚽ 🥊 🎥 ✍🏻
