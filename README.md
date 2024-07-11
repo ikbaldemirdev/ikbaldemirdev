@@ -30,7 +30,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikbaldemirdev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![ikbaldemirdev GitHub stats](https://github-readme-stats.vercel.app/api?username=ikbaldemirdev&theme=algolia)](https://github.com/ikbaldemirdev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikbaldemirdev&theme=algolia)](https://github.com/ikbaldemirdev/github-readme-stats) [![ikbaldemirdev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ikbaldemirdev&theme=algolia)](https://github.com/ikbaldemirdev/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikbaldemirdev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![ikbaldemirdev GitHub stats](https://github-readme-stats.vercel.app/api?username=ikbaldemirdev&theme=algolia)](https://github.com/ikbaldemirdev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikbaldemirdev&theme=algolia)](https://github.com/ikbaldemirdev/github-readme-stats) 
 
 <br>
 
