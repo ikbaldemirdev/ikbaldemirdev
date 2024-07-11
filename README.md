@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000"/> <img src="https://https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000"/> <img src="https://https://https://img.icons8.com/?size=100&id=87330&format=png&color=000000"/> <img src="https://https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/flutter--v1.png"/> <img src="https://img.icons8.com/color/48/000000/figma.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 <br>
 
